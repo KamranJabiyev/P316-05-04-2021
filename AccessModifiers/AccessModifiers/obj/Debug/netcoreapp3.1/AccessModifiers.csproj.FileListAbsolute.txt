@@ -1,0 +1,11 @@
+E:\P316\C#\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.exe
+E:\P316\C#\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.deps.json
+E:\P316\C#\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.json
+E:\P316\C#\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.dev.json
+E:\P316\C#\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.dll
+E:\P316\C#\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.pdb
+E:\P316\C#\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csprojAssemblyReference.cache
+E:\P316\C#\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfoInputs.cache
+E:\P316\C#\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfo.cs
+E:\P316\C#\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.dll
+E:\P316\C#\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.pdb
